@@ -1,0 +1,4 @@
+# Example for using Apache Spark with Apache Iceberg
+
+This example is based on the quickstart tutorial found here: https://iceberg.apache.org/spark-quickstart/
+
